@@ -36,8 +36,7 @@ Fuera del ámbito profesional disfruto explorar nuevas tecnologías, fortalecer 
 ## 📂 Proyectos
 - [Movilidad urbana y productividad económica](https://github.com/Sergio-APM/movilidad_urbana_y_productividad_economica)  
 
-- ## 📊 Mis estadísticas en GitHub
-
+## 📊 Mis estadísticas en GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-APM&show_icons=true&theme=tokyonight)
 
