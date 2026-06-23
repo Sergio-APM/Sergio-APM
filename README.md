@@ -44,8 +44,7 @@ Fuera del ámbito profesional disfruto explorar nuevas tecnologías, fortalecer 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sergio-APM&theme=tokyonight)
 
+## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https:www.linkedin.com/in/sergio-pena-mejia)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:ingsergiopena@gmail.com)
-
-
