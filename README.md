@@ -3,7 +3,6 @@
 ![image alt](https://github.com/Sergio-APM/Sergio-APM/blob/fc42817667b679ed7d21e135364d89f0f9422238/Banner_perfil.png)
 
 🌱 Ingeniero Ambiental | 📊 Data Analyst en formación
-
 🎓 Especialista en Gerencia Ambiental y Desarrollo Sostenible  
 🐍 Python | 🗄️ SQL | 📊 Power BI  
 🚀 Transformando datos en decisiones sostenibles 🌍✨
