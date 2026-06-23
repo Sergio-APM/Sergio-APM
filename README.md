@@ -38,9 +38,6 @@ Fuera del ámbito profesional disfruto explorar nuevas tecnologías, fortalecer 
 🌍 Gestión de Proyectos de Sostenibilidad y Cumplimiento Normativo
 🧩 Integración de Datos para la Toma de Decisiones
 
-## 📂 Proyectos
-- [Movilidad urbana y productividad económica](https://github.com/Sergio-APM/movilidad_urbana_y_productividad_economica)  
-
 ## 📊 Mis estadísticas en GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-APM&show_icons=true&theme=tokyonight)
