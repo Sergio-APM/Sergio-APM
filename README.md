@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👨‍💻 Sergio Andrés Peña Mejía
+🌱 Ingeniero Ambiental | 📊 Data Analyst en formación
 
-<!--
-**Sergio-APM/Sergio-APM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Especialista en Gerencia Ambiental y Desarrollo Sostenible  
+🐍 Python | 🗄️ SQL | 📊 Power BI  
+🚀 Transformando datos en decisiones sostenibles 🌍✨
+
+## 🛠️ Habilidades
+- Python 🐍  
+- SQL 🗄️ 
+- Power BI 📊  
+- ISO 14001 🌱
+
+## 📂 Proyectos
+- [Movilidad urbana y productividad económica](https://github.com/Sergio-APM/movilidad_urbana_y_productividad_economica)  
+
+## 🔗 Conecta conmigo
+- LinkedIn: [sergio andres peña mejia](www.linkedin.com/in/sergio-pena-mejia)  
