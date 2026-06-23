@@ -18,6 +18,10 @@ Hoy, mi objetivo es integrar la gestión ambiental con la analítica de datos, a
 
 Fuera del ámbito profesional disfruto explorar nuevas tecnologías, fortalecer mi inglés como segundo idioma y dedicar tiempo a hobbies como el gamming, senderismo, lectura. Estas actividades me inspiran a mantener una visión amplia, creativa y en constante aprendizaje.
 
+##🎯 Misión Profesional
+
+“Aplicar el análisis de datos como herramienta estratégica para transformar información en conocimiento accionable, integrando metodologías estadísticas, visualización avanzada y gestión de indicadores que impulsen la sostenibilidad, y la toma de decisiones en entornos corporativos y tecnológicos.”
+
 ##🧩 Áreas de Especialización
 
 🔍 Análisis Exploratorio de Datos (EDA)
