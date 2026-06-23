@@ -41,7 +41,9 @@ Fuera del ámbito profesional disfruto explorar nuevas tecnologías, fortalecer 
 
 - ## 📊 Mis estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-APM&show_icons=true&theme=dark)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-APM&layout=compact&theme=dark)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https:www.linkedin.com/in/sergio-pena-mejia)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:ingsergiopena@gmail.com)
+
 
