@@ -41,7 +41,7 @@ Fuera del ámbito profesional disfruto explorar nuevas tecnologías, fortalecer 
 
 - ## 📊 Mis estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-APM_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-APM&show_icons=true&theme=dark)
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-APM&layout=compact&theme=dark)
 
