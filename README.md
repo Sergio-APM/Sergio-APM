@@ -18,16 +18,30 @@ Hoy, mi objetivo es integrar la gestión ambiental con la analítica de datos, a
 
 Fuera del ámbito profesional disfruto explorar nuevas tecnologías, fortalecer mi inglés como segundo idioma y dedicar tiempo a hobbies como el gamming, senderismo, lectura. Estas actividades me inspiran a mantener una visión amplia, creativa y en constante aprendizaje.
 
-📩 Puedes conocer mis proyectos en GitHub: https://github.com/ingsergiopena-ctrl contactarme aquí en LinkedIn o al correo ingsergiopena@gmail.com. Estoy abierto a oportunidades que unan tecnología y sostenibilidad para generar impacto real.
+##🧩 Áreas de Especialización
 
-## 🛠️ Habilidades
-- Python 🐍  
-- SQL 🗄️ 
-- Power BI 📊  
-- ISO 14001 🌱
+🔍 Análisis Exploratorio de Datos (EDA)
+📦 Limpieza y Transformación de Datos (Data Wrangling & Cleaning)
+📊 Visualización de Datos y Dashboards (Power BI, Python, SQL)
+🌱 Analítica Ambiental y Reportes de Sostenibilidad (GRI, ESG)
+⚡ Indicadores de Eficiencia Energética y Gestión de Recursos
+📑 Automatización en Hojas de Cálculo (Google Sheets, Excel)
+📈 Diseño de KPIs y Seguimiento de Indicadores
+🔐 Gestión de Calidad de Datos y Gobernanza
+🛠️ Modelado Básico de Regresión y Clasificación
+📊 Inteligencia de Negocios y Analítica Avanzada
+🌍 Gestión de Proyectos de Sostenibilidad y Cumplimiento Normativo
+🧩 Integración de Datos para la Toma de Decisiones
 
 ## 📂 Proyectos
 - [Movilidad urbana y productividad económica](https://github.com/Sergio-APM/movilidad_urbana_y_productividad_economica)  
 
 ## 🔗 Conecta conmigo
-- LinkedIn: [sergio andres peña mejia](www.linkedin.com/in/sergio-pena-mejia)  
+- LinkedIn: [sergio andres peña mejia](www.linkedin.com/in/sergio-pena-mejia)
+
+- ## 📊 Mis estadísticas en GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-APM_icons=true&theme=dark)
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-APM&layout=compact&theme=dark)
+
