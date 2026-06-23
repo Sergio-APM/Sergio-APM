@@ -40,7 +40,13 @@ Fuera del ámbito profesional disfruto explorar nuevas tecnologías, fortalecer 
 - LinkedIn: [sergio andres peña mejia](www.linkedin.com/in/sergio-pena-mejia)
 
 - ## 📊 Mis estadísticas en GitHub
+## 📊 Estadísticas de GitHub
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-APM&show_icons=true&theme=tokyonight)
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-APM&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sergio-APM&theme=tokyonight)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https:www.linkedin.com/in/sergio-pena-mejia)
